@@ -1,0 +1,56 @@
+body {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: lightgray;
+}
+
+button {
+    font-size: 20px;
+    color: white;
+    background: teal;
+    border: 0;
+}
+
+button:hover {
+    background: darkslategray;
+}
+
+form {
+    float: right;
+    width: 30%;
+}
+
+.arrayAnimals {
+    padding: 5px 20px;
+    margin: 0 10px 10px 0;
+}
+
+input {
+    width: 90%;
+    height: 25px;
+}
+
+#animalOptions {
+
+}
+
+#AnimalForm {
+
+}
+
+.animalText {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.animalInput {
+
+}
+
+#addAnimal {
+    
+}
+
+#animalGifs {
+
+}
